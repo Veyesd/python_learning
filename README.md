@@ -6,4 +6,5 @@ Cela vous donnera un aperçu de ma logique, dans ce type d'exercice, on aborde l
 
 Vous avez donc les exemples suivants :
 
-- **nombre mystère** avec gestion des erreurs et possibilité de paramétrer facilement les choses. Temps qu'à faire, autant rendre les choses souples et strictes.
+- **nombre mystère**, avec gestion des erreurs et possibilité de paramétrer facilement les choses. Temps qu'à faire, autant rendre les choses souples et strictes.
+- **jeu de rôle**, l'exercice courant qui permet de tester une bonne partie des bases.
